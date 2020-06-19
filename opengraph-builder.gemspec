@@ -2,8 +2,8 @@
 
 Gem::Specification.new do |s|
   s.name = 'opengraph-builder'
-  s.version = '0.0.1'
-  s.date = '2020-06-17'
+  s.version = '0.0.2'
+  s.date = '2020-06-18'
   s.summary = 'OpenGraph Meta Tag Builder'
   s.description = 'A helper for creating OpenGraph-compatible Meta Tags for your pages'
   s.authors = ['Jono Feist']
