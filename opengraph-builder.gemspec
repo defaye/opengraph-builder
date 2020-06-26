@@ -15,4 +15,5 @@ Gem::Specification.new do |s|
     'README.md'
   ]
   s.license = 'MIT'
+  s.required_ruby_version = '>= 2.6.0'
 end
