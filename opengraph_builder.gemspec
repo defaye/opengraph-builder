@@ -12,8 +12,8 @@ Gem::Specification.new do |s|
   s.authors     = ['Jonathan Feist']
   s.email       = ['jonathan.feist@unep-wcmc.org']
   s.homepage    = 'https://github.com/defaye/opengraph-builder'
-  s.summary     = 'TODO: Summary of OpenGraphBuilder.'
-  s.description = 'TODO: Description of OpenGraphBuilder.'
+  s.summary     = 'OpenGraph Meta Tag Builder'
+  s.description = 'A helper for creating OpenGraph-compatible Meta Tags for your pages'
   s.license     = 'MIT'
 
   s.files = Dir['{app,config,db,lib}/**/*', 'MIT-LICENSE', 'Rakefile', 'README.md']
