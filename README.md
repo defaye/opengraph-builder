@@ -1,9 +1,6 @@
 # OpenGraph Builder
 Builder helps you set up OpenGraph meta-tags
 
-This plugin is designed to be used in view templates and is a simple wrapper 
-for specifying OpenGraph meta-tags.
-
 See [ogp.me](https://ogp.me/)
 
 ## Usage
