@@ -1,4 +1,4 @@
-# OpenGraphBuilder
+# OpenGraph Builder
 OpenGraphBuilder helps you setup OpenGraph meta-tags
 
 This plugin is designed to be used in view templates and is a simple wrapper 
